@@ -1,0 +1,119 @@
+LISTE DES PARAMETRES
+
+Générateur 1
+- gen1a -> volume /osc1lvl
+- gen1b -> multiplicateur de fréquence /osc1freq
+- gen1c -> niveau sustain /oscsustlvl
+- gen1d -> temps de decay /oscsusttm
+- gen1e -> niveau d'attaque /oscattalvl
+- gen1f -> temps d'attaque /oscattatm
+- gen1g -> temps de release /oscrelea
+- gen1h -> coupure auto on
+- gen1i -> delai coupure auto
+- gen1j -> mix sin-saw
+- gen1k -> cliping on off
+- gen1l -> mix phasor phase modulation
+- gen1m -> PM modulante
+- gen1n -> PM indice
+- gen1o -> PM random mode
+
+Générateur 2
+- gen2a -> volume /osc2lvl
+- gen2b -> multiplicateur de fréquence /osc2freq
+- gen2c -> niveau sustain
+- gen2d -> temps de decay
+- gen2e -> niveau d'attaque
+- gen2f -> temps d'attaque
+- gen2g -> temps de release
+- gen2h -> coupure auto on
+- gen2i -> delai coupure auto
+- gen2j -> mix sin-saw
+- gen2k -> cliping on off
+- gen2l -> mix phasor phase modulation
+- gen2m -> PM modulante
+- gen2n -> PM indice
+- gen2o -> PM random mode
+
+Générateur 3
+- gen3a -> volume /osc3lvl
+- gen3b -> multiplicateur de fréquence /osc3freq
+- gen3c -> niveau sustain
+- gen3d -> temps de decay
+- gen3e -> niveau d'attaque
+- gen3f -> temps d'attaque
+- gen3g -> temps de release
+- gen3h -> coupure auto on
+- gen3i -> delai coupure auto
+- gen3j -> mix sin-saw
+- gen3k -> cliping on off
+- gen3l -> mix phasor phase modulation
+- gen3m -> PM modulante
+- gen3n -> PM indice
+- gen3o -> PM random mode
+
+Générateur 4
+- gen4a -> volume /osc4lvl
+- gen4b -> multiplicateur de fréquence /osc4freq
+- gen4c -> niveau sustain /osc4sustlvl
+- gen4d -> temps de decay /osc4susttm
+- gen4e -> niveau d'attaque /osc4attalvl
+- gen4f -> temps d'attaque /osc4attatm
+- gen4g -> temps de release /osc4relea
+- gen4h -> coupure auto on /osc4stopon
+- gen4i -> delai coupure auto /osc4stop
+- gen4j -> mix sin-saw /phasoscrat
+- gen4k -> cliping on off
+- gen4l -> mix phasor phase modulation
+- gen4m -> PM modulante
+- gen4n -> PM indice
+- gen4o -> PM random mode
+
+FM pour générateur1
+- mod1a -> rapport de modulation (multiplicateur) on
+- mod1b -> paramètre rapport de modulation
+- mod1c -> fréquence modulante fixe
+- mod1d -> index fixe
+- mod1e -> index aléatoire on
+- mod1f -> paramètre index aléatoire profondeur
+- mod1g -> paramètre index aléatoire périodicité
+
+FM pour générateur 2
+- mod2a -> rapport de modulation (multiplicateur) on
+- mod2b -> paramètre rapport de modulation
+- mod2c -> fréquence modulante fixe
+- mod2d -> index fixe
+- mod2e -> index aléatoire on
+- mod2f -> paramètre index aléatoire profondeur
+- mod2g -> paramètre index aléatoire périodicité
+
+FM pour générateur 3
+- mod3a -> rapport de modulation (multiplicateur) on
+- mod3b -> paramètre rapport de modulation
+- mod3c -> fréquence modulante fixe
+- mod3d -> index fixe
+- mod3e -> index aléatoire on
+- mod3f -> paramètre index aléatoire profondeur
+- mod3g -> paramètre index aléatoire périodicité
+
+FM pour générateur 4
+- mod4a -> rapport de modulation (multiplicateur) on
+- mod4b -> paramètre rapport de modulation
+- mod4c -> fréquence modulante fixe
+- mod4d -> index fixe
+- mod4e -> index aléatoire on
+- mod4f -> paramètre index aléatoire profondeur
+- mod4g -> paramètre index aléatoire périodicité
+
+Paner
+- pan1a -> switch paner périodique /panperio
+- pan1b -> paramètre perio - profondeur /panperioprofond
+- pan1c -> paramètre perio - durée cycle /panperiotemps
+- pan2a -> switch paner aléatoire /panalea
+- pan2b -> paramètre aléa - durée cycle /panaleatemps
+
+Filtre (synchronisé au paner)
+- fil1a -> densité /filtswit
+- fil1b -> facteur Q /qq
+
+Volume général
+- mvl -> Niveau de sortie /mastvol
